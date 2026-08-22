@@ -16,7 +16,7 @@
 
 - 🔭 Founding Engineer @ **Citraverse Healthcare** — reimagining care adherence with AI
 - 🔬 Former Machine Learning Research Intern @ Amrita School of Engineering
-- 🏆 2x Hackathon Winner — NitroStack MCP Hackathon & AI-Verse (ANOKHA)
+- 🏆 2x Hackathon Winner — NitroStack MCP Hackathon & AI-Verse
 - 📝 Best Paper Award, IEEE PuneCon — and 2x IEEE published
 - 🎓 B.Tech @ Amrita Vishwa Vidyapeetham
 - ⚡ Former VP, Intel IoT Student Club
