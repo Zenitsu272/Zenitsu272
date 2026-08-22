@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaishak</h1>
-<h3 align="center">Founding Engineer @ Citraverse Healthcare | AI Vision & Backend Systems</h3>
+<h3 align="center">Agentic Systems &nbsp;|&nbsp; Backend &nbsp;|&nbsp; GCP &nbsp;|&nbsp; Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+vision+pipelines+for+elder-care;Agentic+systems+%7C+MCP+%7C+Multimodal+AI;FastAPI+%2B+PostgreSQL+%2B+Docker+%2B+GCP;Hackathon+winner+%40+NitroStack+MCP+%26+AI-Verse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+shipped+systems;Multi-agent+AI+%7C+MCP+%7C+Multimodal+pipelines;Powered+by+Python%2C+FastAPI+%26+a+lot+of+coffee" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vaishak-t-96b93930a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vaishak.2327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 
 - 🔭 Founding Engineer @ **Citraverse Healthcare** — reimagining care adherence with AI
 - 🔬 Former Machine Learning Research Intern @ Amrita School of Engineering
-- 🏆 2x Hackathon Winner — NitroStack MCP Hackathon & AI-Verse
+- 🏆 2x Hackathon Winner — NitroStack MCP Hackathon & AI-Verse (ANOKHA)
 - 📝 Best Paper Award, IEEE PuneCon — and 2x IEEE published
 - 🎓 B.Tech @ Amrita Vishwa Vidyapeetham
 - ⚡ Former VP, Intel IoT Student Club
